@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Incident List">46bc656b1bd1c9102c0c21b9274bcb92</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>recah.austria@snc</sys_created_by>
+        <sys_created_on>2022-02-02 03:55:38</sys_created_on>
+        <sys_id>c3cce16b1bd1c9102c0c21b9274bcb47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>46bc656b1bd1c9102c0c21b9274bcb92</sys_name>
+        <sys_package display_value="RA App Test Del" source="x_snc_ra_app_test">16577ed2dbe2a4104ba68f423a961944</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RA App Test Del">16577ed2dbe2a4104ba68f423a961944</sys_scope>
+        <sys_update_name>sys_report_users_groups_c3cce16b1bd1c9102c0c21b9274bcb47</sys_update_name>
+        <sys_updated_by>recah.austria@snc</sys_updated_by>
+        <sys_updated_on>2022-02-02 03:55:38</sys_updated_on>
+        <user_id display_value="Abraham Lincoln">a8f98bb0eb32010045e1a5115206fe3a</user_id>
+    </sys_report_users_groups>
+</record_update>

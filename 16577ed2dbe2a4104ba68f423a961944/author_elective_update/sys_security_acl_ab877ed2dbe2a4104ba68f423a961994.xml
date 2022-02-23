@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_snc_ra_app_test_test_delete</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>recah.austria@snc</sys_created_by>
+        <sys_created_on>2021-02-27 23:06:01</sys_created_on>
+        <sys_id>ab877ed2dbe2a4104ba68f423a961994</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_ra_app_test_test_delete</sys_name>
+        <sys_package display_value="RA App Test Del" source="x_snc_ra_app_test">16577ed2dbe2a4104ba68f423a961944</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RA App Test Del">16577ed2dbe2a4104ba68f423a961944</sys_scope>
+        <sys_update_name>sys_security_acl_ab877ed2dbe2a4104ba68f423a961994</sys_update_name>
+        <sys_updated_by>recah.austria@snc</sys_updated_by>
+        <sys_updated_on>2021-02-27 23:06:01</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="RA App Test Del">16577ed2dbe2a4104ba68f423a961944</application>
+        <file_path/>
+        <instance_id>d7e46a1fdb4ff240cbf6d5b0cf961951</instance_id>
+        <instance_name>empra01</instance_name>
+        <name>sys_security_acl_ab877ed2dbe2a4104ba68f423a961994</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description/><name>x_snc_ra_app_test_test_delete</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>recah.austria@snc</sys_created_by><sys_created_on>2021-02-27 23:06:01</sys_created_on><sys_id>ab877ed2dbe2a4104ba68f423a961994</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_snc_ra_app_test_test_delete</sys_name><sys_package display_value="RA App Test Del" source="x_snc_ra_app_test">16577ed2dbe2a4104ba68f423a961944</sys_package><sys_policy/><sys_scope display_value="RA App Test Del">16577ed2dbe2a4104ba68f423a961944</sys_scope><sys_update_name>sys_security_acl_ab877ed2dbe2a4104ba68f423a961994</sys_update_name><sys_updated_by>recah.austria@snc</sys_updated_by><sys_updated_on>2021-02-27 23:06:01</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1318579122</payload_hash>
+        <record_name>x_snc_ra_app_test_test_delete</record_name>
+        <reverted_from/>
+        <source>56577ed2dbe2a4104ba68f423a961946</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>recah.austria@snc</sys_created_by>
+        <sys_created_on>2021-02-27 23:06:01</sys_created_on>
+        <sys_id>6b87f216dbe2a4104ba68f423a9619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177e5bdde4e0000001</sys_recorded_at>
+        <sys_updated_by>recah.austria@snc</sys_updated_by>
+        <sys_updated_on>2021-02-27 23:06:01</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>a387f21624e2a41080a74e99f90d74c5</update_guid>
+        <update_guid_history>a387f21624e2a41080a74e99f90d74c5:-1318579122</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>recah.austria@snc</sys_created_by>
+        <sys_created_on>2021-02-27 23:06:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>0512aebe64394c2e8f5756752d119891</sys_id>
+        <sys_metadata>ab877ed2dbe2a4104ba68f423a961994</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_ra_app_test_test_delete</sys_name>
+        <sys_package display_value="RA App Test Del" source="x_snc_ra_app_test">16577ed2dbe2a4104ba68f423a961944</sys_package>
+        <sys_parent display_value="">aa87f216dbe2a4104ba68f423a961961</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="RA App Test Del">16577ed2dbe2a4104ba68f423a961944</sys_scope>
+        <sys_scope_delete display_value="">d8f86cb7a7e043029342fcf100ee5604</sys_scope_delete>
+        <sys_update_name>sys_security_acl_ab877ed2dbe2a4104ba68f423a961994</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_ab877ed2dbe2a4104ba68f423a961994">6b87f216dbe2a4104ba68f423a9619c5</sys_update_version>
+        <sys_updated_by>recah.austria@snc</sys_updated_by>
+        <sys_updated_on>2021-02-27 23:06:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
